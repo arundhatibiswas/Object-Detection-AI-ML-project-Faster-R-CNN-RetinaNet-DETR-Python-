@@ -49,13 +49,9 @@ jupyter notebook
 
 | Model | mAP | Notes |
 |-------|-----|-------|
-| Faster R-CNN | _mAP 80-85%_ | Two-stage object
-detection with region
-proposals |
-| RetinaNet | _mAP 78-82%_ | One-stage detector
-with Focal Loss |
-| DETR | _mAP 83-86%_ | Transformer-based
-detection model |
+| Faster R-CNN | _mAP 80-85%_ | Two-stage object detection with region proposals |
+| RetinaNet | _mAP 78-82%_ | One-stage detector with Focal Loss |
+| DETR | _mAP 83-86%_ | Transformer-based detection model |
 
 
 ## 👤 Author
